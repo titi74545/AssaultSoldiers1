@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc8f223bd5760dc96aa9b9aefc646d766386ecda3",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xc8f223bd5760dc96aa9b9aefc646d766386ecda3",
+  "NETWORK": {
+    "NAME": "Goerli test network",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Assault Soldiers",
+  "SYMBOL": "AS",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 90000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/assaultsoldiers",
+  "SHOW_BACKGROUND": true
+}
